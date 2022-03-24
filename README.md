@@ -5,9 +5,9 @@
 </div>
 
 <h3 align="center"> 👋 Oi! Sou o <strong>Luciano Barbosa</strong> </h3> 
-<br>
+
 <h4> Sou estudante de Desenvolvimento Full Stack pela SoulCode Academy e e também estudo Analise de desenvolvimento de Sistemas(1/5).</h4>
-<br>
+
 <h5>Hey! I'm Luciano Barbosa, student of Full Stack Development at SoulCode Academy and I also study Systems Development Analysis (1/5).</h5>
 
 <br>
