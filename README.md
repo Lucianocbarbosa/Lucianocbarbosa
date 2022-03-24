@@ -12,7 +12,7 @@
 
 <hr>
 
-<h2 align="center">👩‍💻Linguagens e Ferramentas💻<span style="font-size:15px"> / Languages and Tools</span></h2>
+<h2 align="center">👩‍💻Linguagens e Ferramentas💻<span style="font-size:12px"> / Languages and Tools</span></h2>
 
 <br>
 <pre>→ HTML5  | → CSS3  | → BOOTSTRAP 5  | → JAVASCRIPT ES6  | → ANGULAR 12  | → NODE.JS  | → EXPRESS  | → MYSQL  | → MONGODB</pre>
@@ -49,7 +49,7 @@
 
 <hr>
 
-<h2 align="center">Contatos<span style="font-size:15px"> / Contacts</span></h2>
+<h2 align="center">Contatos<span style="font-size:13px"> / Contacts</span></h2>
 
 <div align="center">
 
