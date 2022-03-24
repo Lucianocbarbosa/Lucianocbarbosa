@@ -10,7 +10,6 @@
 
 <h5>Hey! I'm Luciano Barbosa, student of Full Stack Development at SoulCode Academy and I also study Systems Development Analysis (1/5).</h5>
 
-<br>
 <hr>
 
 <h2 align="center">👩‍💻Linguagens e Ferramentas💻<span style="font-size:15px"> / Languages and Tools</span></h2>
