@@ -6,9 +6,21 @@
 
 <h3 align="center"> 👋 Oi! Sou o <strong>Luciano Barbosa</strong> </h3> 
 
-<h4> Sou estudante de Desenvolvimento Full Stack pela SoulCode Academy e e também estudo Analise de desenvolvimento de Sistemas(1/5).</h4>
+<h4> Sou pernambucano/recifense. Cursei engenharia elétrica, já fui CEO de uma empresa de energia solar encubada pelo Porto Digital. Com a pandemia, comecei a procurar uma nova área, e como sempre gostei de tecnologia, iniciei uma pesquisa e estudos sobre profissões na área, foi quando encontrei a SoulCode, e me deparei com a profissão de desenvolvedor. Sou honesto, responsável, interativo, esforçado e tento sempre levar a alegria para o ambiente.<br><br>
 
-<h5>Hey! I'm Luciano Barbosa, student of Full Stack Development at SoulCode Academy and I also study Systems Development Analysis (1/5).</h5>
+
+No decorrer das experiências que tive como desenvolvedor tive como aprendizado não desistir diante de obstáculos, lidar com pessoas com pensamentos e personalidades diferentes, incentivo tanto quanto dos colegas comigo, como o inverso... O incentivo e apoio dos colegas no ambiente de trabalho faz a gente desenvolver melhor os projetos designados. Sou uma pessoa extremamente comprometida, e que visto a camisa da empresa. Irei me dedicar ao máximo para entregar tudo o que for solicitado e sempre buscando aperfeiçoamentos.
+
+
+Estou em constante evolução, o que me diferencia dos outros é sempre buscar melhorar. Buscar aprender em todas as situações. Tenho conhecimento técnico para iniciar a minha carreia em qualquer área, tanto Back End como Front End. Com a minha vontade de aprender posso contribuir com muita dedicação e entrega para meus colegas de equipe 
+
+
+Atualmente estou estudando tecnologias de desenvolvimento full-stack, das quais destacam-se: Git e Github, JavaScript, Angular, NodeJS, MySQL, POO, Clean Code, dentre outras.<br>
+
+</h4>
+
+
+
 
 <hr>
 
